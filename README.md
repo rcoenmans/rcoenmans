@@ -61,9 +61,3 @@ I am a solution architect working for Avanade and based in The Netherlands. I fo
 <a href="https://www.typescriptlang.org">
     <img align="left" alt="Typescript" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.4.0/icons/typescript.svg" />
 </a>
-
-<style>
-    img {
-        margin: 0 0.5em 0.5em 0;
-    }
-</style>
