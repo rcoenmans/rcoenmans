@@ -7,6 +7,14 @@ I am a solution architect working for Avanade and based in The Netherlands. I fo
 ### Articles
 
 - [Azure API Management Standard v2 Secure Baseline - Reference Implementation]()
+- [Migrating from JIRA to Azure DevOps](https://github.com/rcoenmans/jira-to-vsts-migration)
+
+### Tools and libraries
+
+- [VSTS/TFS client library for Python](https://github.com/rcoenmans/vsts-client)
+- [JIRA client library for Python](https://github.com/rcoenmans/jira-client)
+- [Azure CosmosDB SQL client library for Python](https://github.com/rcoenmans/azure-cosmosdb-sql-python)
+- [PEM to PKCS12 conversion utility](https://github.com/rcoenmans/pkcsutil)
 
 ### Languages and tools
 
