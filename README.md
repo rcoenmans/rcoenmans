@@ -9,7 +9,7 @@ I am a solution architect working for Avanade and based in The Netherlands. I fo
 - [Azure API Management Standard v2 Secure Baseline]()
 - [Migrating from JIRA to Azure DevOps](https://github.com/rcoenmans/jira-to-vsts-migration)
 
-### Tools and libraries
+### Projects
 
 - [VSTS/TFS client library for Python](https://github.com/rcoenmans/vsts-client)
 - [JIRA client library for Python](https://github.com/rcoenmans/jira-client)
