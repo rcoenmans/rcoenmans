@@ -6,7 +6,7 @@ I am a solution architect working for Avanade and based in The Netherlands. I fo
 
 ### Articles
 
-- [Azure API Management Standard v2 Secure Baseline]()
+- [Azure API Management Standard v2 Secure Baseline](https://github.com/rcoenmans/appgw-apim-std-v2)
 - [Migrating from JIRA to Azure DevOps](https://github.com/rcoenmans/jira-to-vsts-migration)
 
 ### Projects
