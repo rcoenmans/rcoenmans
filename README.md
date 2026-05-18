@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Robbie Coenmans
 
-I am a solution architect working for Avanade and based in The Netherlands. I focus mainly on integration architectures on Azure. 
+I am a software architect working for Avanade and based in The Netherlands. I focus mainly on integration architectures on Azure. 
 
 ### Articles
 
